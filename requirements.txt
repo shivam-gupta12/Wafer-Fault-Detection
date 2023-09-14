@@ -1,0 +1,8 @@
+pandas
+numpy 
+Flask
+scikit-learn
+kneed
+imbalanced-learn
+xgboost
+-e .
