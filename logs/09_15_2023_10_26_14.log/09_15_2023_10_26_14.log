@@ -1,0 +1,4 @@
+[2023-09-15 10:26:14,900] 23 root - INFO - data ingestion started
+[2023-09-15 10:26:14,950] 29 root - INFO - preprocessing-droping useless columns from the dataframe
+[2023-09-15 10:26:14,971] 56 root - INFO - Train Test split
+[2023-09-15 10:26:14,997] 62 root - INFO - Ingestion of Data is completed

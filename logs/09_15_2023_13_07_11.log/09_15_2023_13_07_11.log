@@ -1,0 +1,12 @@
+[2023-09-15 13:07:11,576] 23 root - INFO - data ingestion started
+[2023-09-15 13:07:11,629] 29 root - INFO - preprocessing-droping useless columns from the dataframe
+[2023-09-15 13:07:11,649] 54 root - INFO - the shape of the dataframe now is : , (100, 465)
+[2023-09-15 13:07:11,649] 56 root - INFO - Train Test split
+[2023-09-15 13:07:11,674] 62 root - INFO - Ingestion of Data is completed
+[2023-09-15 13:07:11,674] 55 root - INFO - data transformation started
+[2023-09-15 13:07:11,736] 30 root - INFO - establishing pipeline
+[2023-09-15 13:07:11,737] 46 root - INFO - saved preprocessor.pkl
+[2023-09-15 13:07:11,841] 74 root - INFO - data transformation completed
+[2023-09-15 13:07:11,841] 25 root - INFO - splitting independent and dependent variables from train array and test array
+[2023-09-15 13:07:11,984] 42 root - INFO - Model Report {'svm - linear kernel': -0.031249999999999778, 'RandomForest': -0.031249999999999778}
+[2023-09-15 13:07:11,984] 55 root - INFO - Best Model Found , Model Name : svm - linear kernel , R2 Score : -0.031249999999999778

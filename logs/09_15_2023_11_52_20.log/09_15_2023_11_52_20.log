@@ -1,0 +1,9 @@
+[2023-09-15 11:52:21,059] 23 root - INFO - data ingestion started
+[2023-09-15 11:52:21,110] 29 root - INFO - preprocessing-droping useless columns from the dataframe
+[2023-09-15 11:52:21,131] 54 root - INFO - the shape of the dataframe now is : , (100, 465)
+[2023-09-15 11:52:21,131] 56 root - INFO - Train Test split
+[2023-09-15 11:52:21,157] 62 root - INFO - Ingestion of Data is completed
+[2023-09-15 11:52:21,157] 55 root - INFO - data transformation started
+[2023-09-15 11:52:21,220] 30 root - INFO - establishing pipeline
+[2023-09-15 11:52:21,221] 46 root - INFO - saved preprocessor.pkl
+[2023-09-15 11:52:21,297] 82 root - INFO - error in data transformation
