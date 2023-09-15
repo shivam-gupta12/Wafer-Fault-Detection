@@ -1,0 +1,8 @@
+[2023-09-15 23:30:58,959] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 23:30:59,730] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 23:30:59,737] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 23:31:23,456] 108 root - INFO - error in prediction pipeline
+[2023-09-15 23:31:23,475] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:31:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 23:31:23,493] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:31:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 23:31:23,494] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:31:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 23:31:23,499] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:31:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

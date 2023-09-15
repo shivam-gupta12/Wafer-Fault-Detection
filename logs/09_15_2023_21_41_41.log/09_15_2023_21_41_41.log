@@ -1,0 +1,22 @@
+[2023-09-15 21:41:41,155] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 21:41:41,653] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.1.4:8888
+[2023-09-15 21:41:41,653] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-09-15 21:41:41,656] 224 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[2023-09-15 21:41:41,848] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 21:41:42,367] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 21:41:42,372] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 21:41:43,111] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:41:43] "GET / HTTP/1.1" 200 -
+[2023-09-15 21:41:43,123] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:41:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2023-09-15 21:41:43,124] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:41:43] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[2023-09-15 21:41:45,793] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:41:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-09-15 21:42:07,184] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:42:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 21:42:07,201] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:42:07] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-09-15 21:42:07,202] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:42:07] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-09-15 21:42:07,209] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:42:07] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-09-15 21:42:07,238] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 21:42:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 21:45:24,821] 224 werkzeug - INFO -  * Detected change in '/Users/damodargupta/Desktop/projects/WaferFaultDetection/application.py', reloading
+[2023-09-15 21:45:25,964] 224 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[2023-09-15 21:45:28,845] 224 werkzeug - INFO -  * Restarting with watchdog (fsevents)

@@ -1,0 +1,9 @@
+[2023-09-15 22:04:14,574] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 22:04:15,362] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 22:04:15,372] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 22:04:23,880] 108 root - INFO - error in prediction pipeline
+[2023-09-15 22:04:23,893] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:04:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 22:04:23,911] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:04:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 22:04:23,911] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:04:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 22:04:23,917] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:04:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 22:05:20,953] 224 werkzeug - INFO -  * Detected change in '/Users/damodargupta/Desktop/projects/WaferFaultDetection/application.py', reloading

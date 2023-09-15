@@ -1,0 +1,14 @@
+[2023-09-15 22:34:50,646] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 22:34:51,433] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 22:34:51,459] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 22:34:55,947] 108 root - INFO - error in prediction pipeline
+[2023-09-15 22:34:55,961] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:34:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 22:34:55,979] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:34:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 22:34:55,979] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:34:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 22:34:55,985] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:34:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 22:46:14,877] 108 root - INFO - error in prediction pipeline
+[2023-09-15 22:46:14,894] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:46:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 22:46:14,906] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:46:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 22:46:14,906] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:46:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 22:46:14,915] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 22:46:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 22:47:21,445] 224 werkzeug - INFO -  * Detected change in '/Users/damodargupta/Desktop/projects/WaferFaultDetection/src/pipelines/prediction_pipeline.py', reloading

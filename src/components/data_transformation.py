@@ -42,8 +42,7 @@ class DataTransformation():
                 ('pipeline' , preprocessing_pipeline , numerical_cols)
             ])
             
-            save_object(file_path='artifacts/preprocessor.pkl' , obj=preprocessor)
-            logging.info("saved preprocessor.pkl")
+            logging.info("transformation pipeline built")
             return preprocessor
         
         except Exception as e:
@@ -72,6 +71,8 @@ class DataTransformation():
             test_arr = np.c_[df_trans_test , np.array(y_test)]
             
             logging.info("data transformation completed")
+            save_object(file_path='artifacts/preprocessor.pkl' , obj=preprocessor)
+            logging.info("saved preprocessor.pkl")
             
             return (
                 train_arr,

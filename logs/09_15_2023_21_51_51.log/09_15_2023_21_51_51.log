@@ -1,0 +1,4 @@
+[2023-09-15 21:51:51,759] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 21:51:52,924] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 21:51:52,932] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 21:51:58,719] 224 werkzeug - INFO -  * Detected change in '/Users/damodargupta/Desktop/projects/WaferFaultDetection/src/pipelines/prediction_pipeline.py', reloading

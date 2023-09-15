@@ -1,0 +1,9 @@
+[2023-09-15 23:55:06,296] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 23:55:07,060] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 23:55:07,068] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 23:55:09,692] 104 root - INFO - predictions completed. 
+[2023-09-15 23:55:09,692] 28 root - INFO - prediction completed. Downloading prediction file.
+[2023-09-15 23:55:09,696] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:55:09] "POST /predict HTTP/1.1" 200 -
+[2023-09-15 23:55:27,877] 104 root - INFO - predictions completed. 
+[2023-09-15 23:55:27,877] 28 root - INFO - prediction completed. Downloading prediction file.
+[2023-09-15 23:55:27,878] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:55:27] "POST /predict HTTP/1.1" 200 -

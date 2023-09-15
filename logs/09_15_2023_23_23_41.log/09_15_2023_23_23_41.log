@@ -1,0 +1,16 @@
+[2023-09-15 23:23:41,287] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-09-15 23:23:42,025] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-09-15 23:23:42,034] 224 werkzeug - INFO -  * Debugger PIN: 765-612-118
+[2023-09-15 23:23:46,778] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:46] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[2023-09-15 23:23:46,798] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 23:23:46,798] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 23:23:46,804] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 23:23:51,677] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:51] "GET / HTTP/1.1" 200 -
+[2023-09-15 23:23:51,690] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2023-09-15 23:23:51,693] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:23:51] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[2023-09-15 23:24:01,643] 108 root - INFO - error in prediction pipeline
+[2023-09-15 23:24:01,653] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:24:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2023-09-15 23:24:01,662] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:24:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-09-15 23:24:01,663] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:24:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-09-15 23:24:01,682] 224 werkzeug - INFO - 127.0.0.1 - - [15/Sep/2023 23:24:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-09-15 23:26:28,790] 224 werkzeug - INFO -  * Detected change in '/Users/damodargupta/Desktop/projects/WaferFaultDetection/src/pipelines/prediction_pipeline.py', reloading
